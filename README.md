@@ -1,7 +1,7 @@
 # Приложение калькулятора комплексных чисел на Python с использованием архитектурных паттернов и принципов SOLID.
 структура проекта:
 calculator_project/
-│
+'code'│
 ├── complex_numbers/
 │   ├── __init__.py
 │   ├── complex_number.py
