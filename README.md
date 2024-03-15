@@ -11,10 +11,6 @@
 | user_interaction   | __init__.py, user_interaction.py |
 |                    | main.py                    |
 
-│   └── user_interaction.py
-│
-└── main.py
-
 
    * complex_numbers: модули для работы с комплексными числами.
    * calculator: модуль для выполнения математических операций с комплексными числами.
