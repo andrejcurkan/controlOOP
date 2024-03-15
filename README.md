@@ -2,7 +2,7 @@
 структура проекта:
 calculator_project/
 
-1 ├── complex_numbers/
+*├── complex_numbers/
 │   ├── __init__.py
 │   ├── complex_number.py
 │   └── complex_number_factory.py
